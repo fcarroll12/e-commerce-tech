@@ -16,9 +16,7 @@ Then, run npm start to start the application's server.
 
 Screenshot of routes in Insomnia:
 
-    ```md
-    ![alt text](Assets/screenshot.png)
-    ```
+![alt text](Assets/screenshot.png)
 
 ## Credits
 
